@@ -1,6 +1,8 @@
 # threeMileIslandHydrogenModel
 For MAT231
+
 ########################################################################################
+
 This algorithm uses the multi-step process outlined below
 
 Select two values for tb and K. Construct the ambient temperature equation Ta using these values
@@ -17,8 +19,13 @@ Sum up all the least squares values obtained from the 11 RTDs. This sum is calle
 
 Repeat all previous steps, with new values for tb and K. 
 #########################################################################################
+
 Go to plotter.py. They have specific values of the parameters hardcoded in it.
+
 #########################################################################################
+
 Go to multitester.py. The testing range is also hardcoded.
+
 #########################################################################################
+
 Sorry for the hardcoding and the lack of comments...
