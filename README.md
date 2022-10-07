@@ -20,11 +20,11 @@ Sum up all the least squares values obtained from the 11 RTDs. This sum is calle
 Repeat all previous steps, with new values for tb and K. 
 #########################################################################################
 
-Go to plotter.py. They have specific values of the parameters hardcoded in it.
+To run the code, go to plotter.py. They have specific values of the parameters hardcoded in it.
 
 #########################################################################################
 
-Go to multitester.py. The testing range is also hardcoded.
+To test a wide range, go to multitester.py. The testing range is also hardcoded.
 
 #########################################################################################
 
